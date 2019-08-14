@@ -1,0 +1,14 @@
+html, body {
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+    height: 100vh;
+    background: url("hero.jpg");
+    background-size: cover;
+}
+
+div {
+    margin: 100px;
+    padding: 175px;
+    text-align: center;
+}
